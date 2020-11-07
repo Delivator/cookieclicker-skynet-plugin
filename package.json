@@ -22,5 +22,9 @@
   "homepage": "https://github.com/Delivator/cookieclicker-skynet-plugin#readme",
   "dependencies": {
     "skynet-js": "^2.4.0"
+  },
+  "devDependencies": {
+    "webpack": "^5.4.0",
+    "webpack-cli": "^4.2.0"
   }
 }
