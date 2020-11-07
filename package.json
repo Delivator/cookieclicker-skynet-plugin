@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/Delivator/cookieclicker-skynet-plugin/issues"
   },
-  "homepage": "https://github.com/Delivator/cookieclicker-skynet-plugin#readme"
+  "homepage": "https://github.com/Delivator/cookieclicker-skynet-plugin#readme",
+  "dependencies": {
+    "skynet-js": "^2.4.0"
+  }
 }
