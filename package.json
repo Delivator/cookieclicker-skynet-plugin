@@ -1,0 +1,23 @@
+{
+  "name": "cookieclicker-skynet-plugin",
+  "version": "0.0.1",
+  "description": "A user script that allows users to backup and synchronize their cookie clicker game save on Sia Skynet.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Delivator/cookieclicker-skynet-plugin.git"
+  },
+  "keywords": [
+    "cookieclicker",
+    "skynet"
+  ],
+  "author": "Delivator",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Delivator/cookieclicker-skynet-plugin/issues"
+  },
+  "homepage": "https://github.com/Delivator/cookieclicker-skynet-plugin#readme"
+}
