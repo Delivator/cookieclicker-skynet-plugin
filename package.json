@@ -2,7 +2,7 @@
   "name": "cookieclicker-skynet-plugin",
   "version": "0.0.1",
   "description": "A user script that allows users to backup and synchronize their cookie clicker game save on Sia Skynet.",
-  "main": "index.js",
+  "private": true,
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
